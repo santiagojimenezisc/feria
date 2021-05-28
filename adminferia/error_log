@@ -1,0 +1,157 @@
+[07-Jul-2020 06:42:26 UTC] PHP Parse error:  syntax error, unexpected ''usuarios'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/funedu/public_html/FeriaEDUCA2020/adminferia/index.php on line 289
+[07-Jul-2020 06:54:14 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/funedu/public_html/FeriaEDUCA2020/adminferia/index.php on line 310
+[07-Jul-2020 06:54:18 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/funedu/public_html/FeriaEDUCA2020/adminferia/index.php on line 310
+[07-Jul-2020 06:54:53 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/funedu/public_html/FeriaEDUCA2020/adminferia/index.php on line 310
+[07-Jul-2020 06:55:52 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/funedu/public_html/FeriaEDUCA2020/adminferia/index.php on line 310
+[07-Jul-2020 06:56:33 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/funedu/public_html/FeriaEDUCA2020/adminferia/index.php on line 310
+[07-Jul-2020 06:57:00 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/funedu/public_html/FeriaEDUCA2020/adminferia/index.php on line 310
+[07-Jul-2020 13:25:29 UTC] PHP Warning:  include_once(dbcon.php): failed to open stream: No such file or directory in /home/funedu/public_html/FeriaEDUCA2020/adminferia/admin.php on line 6
+[07-Jul-2020 13:25:29 UTC] PHP Warning:  include_once(): Failed opening 'dbcon.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/funedu/public_html/FeriaEDUCA2020/adminferia/admin.php on line 6
+[07-Jul-2020 13:25:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/admin.php on line 16
+[30-Jul-2020 19:26:20 UTC] PHP Parse error:  syntax error, unexpected '$dpremio' (T_VARIABLE) in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 290
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:28:42 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 291
+[30-Jul-2020 14:34:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function modify() on string in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php:292
+Stack trace:
+#0 {main}
+  thrown in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 292
+[30-Jul-2020 14:34:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function modify() on string in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php:292
+Stack trace:
+#0 {main}
+  thrown in /home/funedu/public_html/FeriaEDUCA2020/adminferia/canjes.php on line 292
+[30-Jul-2020 22:54:34 UTC] PHP Warning:  require(../phpspreadsheet/vendor/autoload.php): failed to open stream: No such file or directory in /home/funedu/public_html/FeriaEDUCA2020/adminferia/descargacanjes.php on line 3
+[30-Jul-2020 22:54:34 UTC] PHP Fatal error:  require(): Failed opening required '../phpspreadsheet/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/funedu/public_html/FeriaEDUCA2020/adminferia/descargacanjes.php on line 3
+[30-Jul-2020 22:56:39 UTC] PHP Warning:  require(/phpspreadsheet/vendor/autoload.php): failed to open stream: No such file or directory in /home/funedu/public_html/FeriaEDUCA2020/adminferia/descargacanjes.php on line 3
+[30-Jul-2020 22:56:39 UTC] PHP Fatal error:  require(): Failed opening required '/phpspreadsheet/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/funedu/public_html/FeriaEDUCA2020/adminferia/descargacanjes.php on line 3
+[30-Jul-2020 22:57:54 UTC] PHP Warning:  include_once(../dbConnectionD.php): failed to open stream: No such file or directory in /home/funedu/public_html/FeriaEDUCA2020/adminferia/descargacanjes.php on line 8
+[30-Jul-2020 22:57:54 UTC] PHP Warning:  include_once(): Failed opening '../dbConnectionD.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/funedu/public_html/FeriaEDUCA2020/adminferia/descargacanjes.php on line 8
+[30-Jul-2020 22:57:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/descargacanjes.php on line 18
+[30-Jul-2020 22:57:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/funedu/public_html/FeriaEDUCA2020/adminferia/descargacanjes.php on line 19
+[30-Jul-2020 23:06:20 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Maximum 31 characters allowed in sheet title. in /home/funedu/public_html/FeriaEDUCA2020/adminferia/phpspreadsheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php:470
+Stack trace:
+#0 /home/funedu/public_html/FeriaEDUCA2020/adminferia/phpspreadsheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php(855): PhpOffice\PhpSpreadsheet\Worksheet\Worksheet::checkSheetTitle('Premios canjead...')
+#1 /home/funedu/public_html/FeriaEDUCA2020/adminferia/descargacanjes.php(33): PhpOffice\PhpSpreadsheet\Worksheet\Worksheet->setTitle('Premios canjead...')
+#2 {main}
+  thrown in /home/funedu/public_html/FeriaEDUCA2020/adminferia/phpspreadsheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php on line 470
+[30-Jul-2020 23:06:55 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Maximum 31 characters allowed in sheet title. in /home/funedu/public_html/FeriaEDUCA2020/adminferia/phpspreadsheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php:470
+Stack trace:
+#0 /home/funedu/public_html/FeriaEDUCA2020/adminferia/phpspreadsheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php(855): PhpOffice\PhpSpreadsheet\Worksheet\Worksheet::checkSheetTitle('Premios canjead...')
+#1 /home/funedu/public_html/FeriaEDUCA2020/adminferia/descargacanjes.php(33): PhpOffice\PhpSpreadsheet\Worksheet\Worksheet->setTitle('Premios canjead...')
+#2 {main}
+  thrown in /home/funedu/public_html/FeriaEDUCA2020/adminferia/phpspreadsheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php on line 470
+[30-Jul-2020 23:07:27 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Maximum 31 characters allowed in sheet title. in /home/funedu/public_html/FeriaEDUCA2020/adminferia/phpspreadsheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php:470
+Stack trace:
+#0 /home/funedu/public_html/FeriaEDUCA2020/adminferia/phpspreadsheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php(855): PhpOffice\PhpSpreadsheet\Worksheet\Worksheet::checkSheetTitle('Premios canjead...')
+#1 /home/funedu/public_html/FeriaEDUCA2020/adminferia/descargacanjes.php(33): PhpOffice\PhpSpreadsheet\Worksheet\Worksheet->setTitle('Premios canjead...')
+#2 {main}
+  thrown in /home/funedu/public_html/FeriaEDUCA2020/adminferia/phpspreadsheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php on line 470
