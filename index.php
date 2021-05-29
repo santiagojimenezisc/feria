@@ -1250,48 +1250,29 @@ $namei=$name['nombre'];
 
     <!-- ======= Supporters Section ======= -->
     <section id="supporters" class="section-with-bg wow fadeInUp">
-
-      <div class="container">
+    <div class="container">
         <div class="section-header">
           <h2>Donantes</h2>
-        </div>
-
-        <div class="row no-gutters supporters-wrap clearfix">
-
-          <div class="col-lg-3 col-md-4 col-xs-6">
-            <div class="supporter-logo">
-              <img src="assets/img/supporters/1.png" class="img-fluid" alt="">
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-xs-6">
-            <div class="supporter-logo">
-              <img src="assets/img/supporters/2.png" class="img-fluid" alt="">
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-xs-6">
-            <div class="supporter-logo">
-              <img src="assets/img/supporters/3.png" class="img-fluid" alt="" style="max-height: 145px">
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-xs-6">
-            <div class="supporter-logo">
-              <img src="assets/img/supporters/4.png" class="img-fluid" alt="">
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-xs-6">
-            <div class="supporter-logo">
-              <img src="assets/img/supporters/5.png" class="img-fluid" alt="" style="max-height: 155px">
-            </div>
-          </div>
-
-
-        </div>
-
       </div>
+      <div class="row">
+        <div class="col-12">
+            <a href=>  <img src="assets/img/" class="" alt="donante-skotibank"></a>
+        </div>
+      </div>
+        <div class="row">
+            <div class="col-4"><a href=""><img src="assets/img/supporters/1.png"></a></div>
+            <div class="col-4"><a href=""><img src="assets/img/supporters/1.png"></a></div>
+            <div class="col-4"><a href=""><img src="assets/img/supporters/1.png"></a></div>
+        </div>
+            <div class="row row-cols-5">
+            <div class="col"><a href=""><img src="assets/img/supporters/1.png"></a></div>
+            <div class="col"><a href=""><img src="assets/img/supporters/1.png"></a></div>
+            <div class="col"><a href=""><img src="assets/img/supporters/1.png"></a></div>
+            <div class="col"><a href=""><img src="assets/img/supporters/1.png"></a></div>
+            <div class="col"><a href=""><img src="assets/img/supporters/1.png"></a></div>
+        </div>
+      </div>
+
 
     </section><!-- End Sponsors Section -->
 
