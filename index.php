@@ -5,7 +5,7 @@ if (!(isset($_SESSION['email']))) {
 } else {
     $email = $_SESSION['email'];
 }
-$buscanombre=mysqli_query($con,"SELECT * FROM `REGISTRO` where email='$email'") or die ("Error de nombre");
+$buscanombre=mysqli_query($con,"SELECT * FROM `REGISTRO` where email='$email'") or die ("Error de nombre - index");
 $name=mysqli_fetch_array($buscanombre);
 $namei=$name['nombre'];
 ?>
@@ -114,7 +114,7 @@ $namei=$name['nombre'];
           <li><a href="#supporters">Donantes</a></li>
           <li><a href="#contact">Contacto</a></li>
           <!--<li class="buy-tickets"><a href="#buy-tickets">Buy Tickets</a></li>-->
-          <?
+           <?php
           if($namei!=''){
             echo'<button class="btn dropdown-toggle registro" type="button" data-toggle="dropdown">Hola '.$namei.'
           <span class="caret"></span></button><ul class="dropdown-menu">
@@ -129,7 +129,7 @@ $namei=$name['nombre'];
                 <li><a class="dregistro inicia" data-load-url="login.php" data-toggle="modal" data-target="#inicia" data-dismiss="modal" data-backdrop="static">Iniciar Sesión</a></li>
               </ul>';
           }
-          ?>
+          ?> 
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
